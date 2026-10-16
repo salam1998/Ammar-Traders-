@@ -1,0 +1,6 @@
+{
+  "name": "Ammar Traders & Electronics - Live Booking & Installment Store",
+  "description": "Live booking storefront and easy monthly installment calculator for Ammar Traders & Electronics Sadiqabad, featuring electronics, home appliances, smartphones, and motorbikes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
